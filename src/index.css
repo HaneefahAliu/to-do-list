@@ -1,0 +1,79 @@
+.label-wrapper {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  letter-spacing: -0.045em;
+  color: #333333;
+}
+
+.add-input {
+  border: 1px solid #BDBDBD;
+box-sizing: border-box;
+border-radius: 12px;
+position: absolute;
+width: 476px;
+height: 56px;
+left: 414px;
+top: 184px;
+}
+
+.add-btn {
+  position: absolute;
+width: 109px;
+height: 56px;
+left: 915px;
+top: 184px;
+background: #2F80ED;
+color: white;
+box-shadow: 0px 2px 6px rgba(127, 177, 243, 0.4);
+border-radius: 12px;
+border: none;
+}
+
+ul {
+  list-style-type: none;
+  position: absolute;
+width: 199px;
+height: 22px;
+left: 446px;
+top: 273px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 2;
+color: #000000;
+}
+
+.filter-btn  {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  background-color: white;
+  border: none;
+  border-bottom: 2px solid black;
+  text-align: center;
+  width: 15%;
+  margin: auto;
+  padding-right: 50px;
+  margin-top: 20px;
+}
+
+.delete-btn {
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+  background-color: red;
+}
